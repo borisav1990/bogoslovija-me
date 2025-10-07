@@ -46,3 +46,71 @@ wp-config.php
 # Note: If you wish to whitelist themes,
 # uncomment the next line
 #/wp-content/themes
+
+# Project-specific additions
+
+# Root-level media and assets not meant for VCS
+/*.png
+/*.jpg
+/*.jpeg
+/*.gif
+/*.webp
+/*.svg
+/*.ico
+/*.bmp
+/*.tif
+/*.tiff
+/*.psd
+/*.ai
+
+# Database dumps and archives
+*.sql
+*.sql.gz
+*.tar
+*.tar.gz
+*.zip
+*.rar
+*.7z
+*.bak
+*.bk
+*.old
+*_bk
+*.phpupgrader.*
+php.ini*
+
+# Hosting/file-manager artifacts
+/cgi-bin/
+/domains/
+/.tmb/
+/net2ftp_temp_*/
+
+# WordPress content caches, backups, logs
+/wp-content/cache/
+/wp-content/upgrade/
+/wp-content/upgrade-temp-backup/
+/wp-content/wflogs/
+/wp-content/litespeed/
+/wp-content/et-cache/
+/wp-content/ai1wm-backups/
+/wp-content/updraft/
+/wp-content/backuply/
+/wp-content/backupwordpress-*-backups/
+/wp-content/logs/
+/wp-content/debug.log
+
+# Galleries and plugin-managed media outside uploads
+/wp-content/gallery/
+/wp-content/ngg/
+
+# System/IDE files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.code-workspace
+
+# Misc site verification files
+/google*.html
+
+# Common PHP/HTTP error log filename
+/error_log

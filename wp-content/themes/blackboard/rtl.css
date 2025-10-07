@@ -1,0 +1,472 @@
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+
+.wrapper {
+	text-align: right; 
+}
+
+.wrapper-center {
+	text-align: center;
+}
+
+#container {
+	text-align: center;
+}
+
+/********************************************************************************************* 
+
+2. Page Structure: Header
+
+*********************************************************************************************/
+
+#logo {
+	float: right;
+}
+
+/* Header Widgetized Area */
+
+.header-widgets #s {
+	float: right;
+	margin-right: 0;
+	margin-left: 5px;
+}
+
+.header-widgets .widget {
+	float: left;
+	margin-right: 30px;
+	margin-left: 0;
+}
+
+.header-widgets .menu .menu-item {
+	margin-right: 10px;
+	margin-left: 0;
+}
+
+#pre-header .secondary-menu {
+	text-align: left;
+}
+
+#pre-header .menu-item {
+	margin-right: 20px;
+	margin-left: 0;
+}
+
+/********************************************************************************************* 
+
+3. Navigation
+
+*********************************************************************************************/
+
+/* Main Menu */
+
+#site-navigation li {
+	margin-right: 0;
+	margin-left: 10px;
+}
+
+#site-navigation .dropdown ul {
+ 	text-align: right;
+}
+
+#site-navigation .dropdown li:hover ul,
+#site-navigation .dropdown .sfHover ul {
+	right: 0;
+	left: auto;
+}
+
+#site-navigation .dropdown li li:hover ul,
+#site-navigation .dropdown li .sfHover ul {
+	right: 171px;
+	left: auto; /* match ul width */
+}
+
+#site-navigation .dropdown li li li:hover ul,
+#site-navigation .dropdown li li .sfHover ul {
+	right: 171px;
+	left: auto; /* match ul width */
+}
+ 
+/********************************************************************************************* 
+
+4. Page Structure: Main Content
+
+*********************************************************************************************/
+
+.academia-column {
+	float: right;
+}
+
+.academia-column-large {
+	float: left;
+}
+
+.academia-column-wrapper {
+	margin-right: 0;
+	margin-left: 30px;
+}
+
+.academia-column-last .academia-column-wrapper {
+	margin-left: 0;
+}
+
+.academia-column-full .academia-column-wrapper {
+	margin-left: 0;
+}
+
+/********************************************************************************************* 
+
+5. Content Blocks
+
+*********************************************************************************************/
+
+/* Post Loops */
+
+.post-cover {
+	float: right;
+}
+
+.post-cover-wrapper {
+	margin-right: 0;
+	margin-left: 20px;
+}
+
+/* Upcoming Events Widget */
+
+.academia-event .post-cover-wrapper {
+	margin-right: 0;
+	margin-left: 10px;
+}
+
+/* Academia Related Pages */
+
+#content .widget_nav_menu .menu-item,
+.widget .academia-related-page,
+.tax-meta-list .tax-meta-item,
+aside .widget .menu-item {
+	padding-right: 15px;
+	padding-left: 10px;
+}
+
+/* Gallery Template */
+
+.academia-gallery-item {
+	float: right;
+}
+
+.gallery-item-3 {
+	margin-right: auto;
+	margin-left: 0;
+}
+
+.gallery-item-first {
+	clear: right;
+}
+
+/* Academia Testimonials Widget */
+
+.academia-testimonial .post-cover {
+	float: right;
+	margin-right: 0;
+	margin-left: 20px;
+}
+
+figcaption.academia-author {
+	margin-right: 20px;
+	margin-left: 0;
+}
+
+/* Academia Course Meta */
+
+.tax-meta-list .tax-label {
+	margin-right: 0;
+	margin-left: 5px;
+}
+
+/* Academia Course List */
+
+.taxonomy-table th {
+	text-align: right;
+}
+
+/********************************************************************************************* 
+
+6. Single: Post/Page Styling
+
+*********************************************************************************************/
+
+.post-meta-single .post-meta time {
+	margin-right: 0;
+	margin-left: 5px;
+}
+
+.post-single ul, 
+.post-single ol {
+	margin-right: 1em;
+	margin-left: 0; 
+}
+
+.post-single li {
+	margin-right: 20px;
+	margin-left: 0;
+} 
+
+/********************************************************************************************* 
+
+7. Comments Styling
+
+*********************************************************************************************/
+
+.commentlist .children {
+	padding-right: 12.9032%;
+	padding-left: 0;
+}
+
+.commentlist .comment-author {
+	float: right;
+	margin-right: 0;
+	margin-left: 20px;
+}
+
+.commentlist .comment-timestamp {
+	text-align: left;
+}
+
+/********************************************************************************************* 
+
+8. Page Structure: Footer
+
+*********************************************************************************************/
+
+footer .academia-credit {
+	float: left;
+	margin-right: 30px;
+	margin-left: 0;
+}
+
+/********************************************************************************************* 
+
+9. Misc
+
+*********************************************************************************************/
+
+.academia-post-share .title-s,
+.academia-share-button {
+	float: right;
+	margin-right: 0;
+	margin-left: 30px;
+}
+
+/* Begin Images */
+.post-single .alignright { 
+	margin-right: 20px;
+	margin-left: 0; 
+}
+.post-single .alignleft { 
+	margin-right: 0;
+	margin-left: 20px; 
+}
+
+.alignright { float: left; }
+.alignleft { float: right; }
+
+/* [gallery] shortcode styling */
+
+.post-single .gallery-caption { margin-right: 0; margin-left: auto; }
+
+/* Recent Comments Widget */
+
+.recent-comments-list .post-cover {
+	float: right;
+	margin-right: 0;
+	margin-left: 10px;
+}
+
+/* Academia Contacts Widget */
+
+.academia-contacts .academia-contact {
+	text-align: right;
+}
+
+.academia-sprite-contact {
+	margin-right: 0;
+	margin-left: 6px;
+}
+
+/* Gravity Forms Fixes */
+
+.gform_wrapper .gform_fields {
+	margin-right: 0;
+	margin-left: auto;
+}
+
+.gform_wrapper .gfield {
+	list-style-type: none;
+	margin-right: auto;
+	margin-left: 0;
+}
+
+.gform_wrapper .gfield_required {
+	margin-right: 2px;
+	margin-left: 0;
+}
+
+/********************************************************************************************* 
+
+11. Slideshow
+
+*********************************************************************************************/
+
+/* Direction Nav */
+.flex-direction-nav a {
+	text-indent:9999px; 
+}
+
+#academia-slideshow a.flex-next { 
+	background-position: -3px 0;
+	right: auto;
+	left: 0;
+	-webkit-border-top-right-radius: 50px;
+	-webkit-border-bottom-right-radius: 50px;
+	-moz-border-radius-topright: 50px;
+	-moz-border-radius-bottomright: 50px;
+	border-top-right-radius: 50px;
+	border-bottom-right-radius: 50px; 
+	-webkit-border-top-left-radius: 0;
+	-webkit-border-bottom-left-radius: 0;
+	-moz-border-radius-topleft: 0;
+	-moz-border-radius-bottomleft: 0;
+	border-top-left-radius: 0;
+	border-bottom-left-radius: 0;
+}
+
+#academia-slideshow a.flex-prev { 
+	background-position: -38px 0;
+	right: 0;
+	left: auto;
+	-webkit-border-top-left-radius: 50px;
+	-webkit-border-bottom-left-radius: 50px;
+	-moz-border-radius-topleft: 50px;
+	-moz-border-radius-bottomleft: 50px;
+	border-top-left-radius: 50px;
+	border-bottom-left-radius: 50px;
+	-webkit-border-top-right-radius: 0;
+	-webkit-border-bottom-right-radius: 0;
+	-moz-border-radius-topright: 0;
+	-moz-border-radius-bottomright: 0;
+	border-top-right-radius: 0;
+	border-bottom-right-radius: 0; 
+}
+
+#academia-slideshow .title-special {
+	background-color: #151515;
+	color: #fff;
+	padding: 15px;
+	position: absolute;
+	bottom: 20px;
+	max-width: 80%;
+	-webkit-border-top-left-radius: 2px;
+	-webkit-border-bottom-left-radius: 2px;
+	-moz-border-radius-topleft: 2px;
+	-moz-border-radius-bottomleft: 2px;
+	border-top-left-radius: 2px;
+	border-bottom-left-radius: 2px;
+	-webkit-border-top-right-radius: 0;
+	-webkit-border-bottom-right-radius: 0;
+	-moz-border-radius-topright: 0;
+	-moz-border-radius-bottomright: 0;
+	border-top-right-radius: 0;
+	border-bottom-right-radius: 0;
+}
+
+/********************************************************************************************* 
+
+12. Media Queries 
+
+*********************************************************************************************/   
+ 
+/* Tabled Portrait */
+@media screen and (max-width: 768px) {
+
+	/* Header Elements */
+	
+	#logo {
+		float: none;
+	}
+	
+	.header-widgets .widget {
+		float: none;
+	}
+	
+	#pre-header .secondary-menu {
+		text-align: center;
+	}
+	
+	#pre-header .menu-item {
+		margin: 0 10px;
+	}
+	
+	/* Columns */
+
+	.wrapper-content-main .academia-column-wrapper {
+		margin-right: 0;
+		margin-left: 20px;
+	}
+	
+	.academia-column-main .academia-column-double,
+	.academia-column-main .academia-column-narrow {
+		float: none;
+	}
+	
+	.academia-column-main .academia-column-double .academia-column-wrapper {
+		margin-right: auto;
+		margin-left: 0;
+	}
+	
+	/* Blocks & Widgets */
+	
+	.academia-column-narrow .post-cover {
+		float: none;
+	}
+	
+	.academia-event .post-cover-wrapper {
+		margin-right: auto;
+		margin-left: 0;
+	}
+	
+}
+
+/* All Mobile Sizes (devices and browser) */
+@media screen and (max-width: 640px) {
+
+	.wrapper-content-main .academia-column-large,
+	.wrapper-content-main .academia-column-narrow {
+		float: none;
+	}
+	
+	.wrapper-content-main .academia-column-wrapper {
+		margin-right: auto;
+		margin-left: 0;
+	}
+	
+	.academia-column-narrow .post-cover {
+		float: right;
+	}
+	
+	.academia-event .post-cover-wrapper {
+		margin-right: 0;
+		margin-left: 20px;
+	}
+	
+	footer .academia-column-narrow,
+	footer .academia-column-double,  
+	footer .academia-column-narrow.academia-column-last {
+		float: none;
+	}
+	
+	footer .academia-column-wrapper {
+		margin-left: 0;
+	}
+	
+}

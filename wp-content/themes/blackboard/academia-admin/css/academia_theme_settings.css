@@ -1,0 +1,308 @@
+div.academia-wrapper {
+	font-size: 13px;
+	line-height: 1.4em;
+	margin: 20px 0; 
+	text-align: left; 
+	width: 820px;
+}
+
+div.academia-wrapper a,
+div.academia-wrapper li {
+	-webkit-transition-duration: 0.3s; -moz-transition-duration: 0.3s; transition-duration: 0.3s;	
+}
+
+div.cleaner,
+div.divider {
+	margin:0;
+	clear: both; 
+	font-size:1px; 
+	height: 1px;  
+	line-height: 1px; 
+}
+
+div.divider {
+	border-top: solid 1px #f1f1f1;
+	margin: 15px 0;
+}
+
+/* Header */
+
+div.header {
+	background-color: #2f3d4b;
+	margin: 0;
+	padding: 20px 20px 15px;
+	-webkit-border-top-left-radius: 5px;
+	-webkit-border-top-right-radius: 5px;
+	-moz-border-radius-topleft: 5px;
+	-moz-border-radius-topright: 5px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+div#academia-logo {
+	display: inline;
+	float: left;
+	margin-right: 30px;
+}
+
+div#academia-theme-info {
+	color: #fff;
+	display: inline;
+	float: right; 
+	margin-right: 0;
+}
+
+div#academia-theme-info p {
+	margin: 7px 0 0;
+}
+
+div#academia-theme-info span.theme-name {
+	font-size: 15px;
+	font-weight: bold;
+}
+
+div#academia-theme-info span.theme-version {
+	font-size: 11px;
+}
+
+/* Subheader */
+
+div.subheader {
+	background-color: #384859;
+	border-top: solid 1px #405366;
+	margin: 0;
+	padding: 0;
+}
+
+div.subheader ul {
+	display: inline;
+	float: right;
+	margin: 0 20px 0 0;
+	padding: 0;
+}
+
+div.subheader ul li {
+	display: inline;
+	float: left;
+	font-size: 11px;
+	line-height: 30px;
+	margin: 0 0 0 20px;
+}
+
+div.subheader a {
+	color: #a1aebc;
+	text-decoration: none;
+}
+
+div.subheader a:hover {
+	color: #fff;
+}
+
+/* Main Tabs Container */
+
+div.academia-container {
+	background: #fff url(../images/academia-options-container-back.png) repeat-y top left;
+	border: solid 1px #e1e1e1;
+	border-top: 0;
+	border-bottom: 0;
+	margin: 0;
+	padding: 0;
+}
+
+div.academia-tabs {
+	display: inline;
+	float: left;
+	margin: 0 20px 0 0;
+	padding: 0;
+	width: 160px;
+}
+
+div.academia-tabs ul {
+	margin: 0 0 20px;
+	padding: 0;
+}
+
+div.academia-tabs li {
+	margin: 0;
+	padding: 0;
+}
+
+div.academia-tabs li a {
+	border-top: solid 1px #f9f9f9;
+	border-bottom: solid 1px #dfdfdf;
+	display: block;
+	font-size: 13px;
+	line-height: 40px;
+	padding-left: 10px;
+	text-decoration: none;
+}
+
+div.academia-tabs li:first-child a {
+	border-top: 0;
+}
+
+div.academia-tabs li:last-child a {
+	border-bottom: 0;
+}
+
+div.academia-tabs a {
+	color: #21759b;
+}
+
+div.academia-tabs a:hover {
+	color: #333;
+}
+
+div.academia-tabs li a.active,
+div.academia-tabs li:hover {
+	background-color: #fff;
+}
+
+div.academia-tabs li a.active {
+	color: #333;
+}
+
+div.academia-content {
+	color: #666;
+	display: inline;
+	float: left;
+	margin-top: 20px;
+	padding-bottom: 30px;
+	width: 620px;
+}
+
+div.academia-container h2 {
+	border-bottom: solid 1px #f1f1f1;
+	display: none;
+	font-size: 18px;
+	font-weight: normal;
+	margin: 0 0 20px;
+	padding: 0 0 10px;
+}
+
+div.academia-container h2.academia-section-title {
+	display: block;
+}
+
+div.academia-container h3 {
+	display: none;
+}
+
+div.academia-container form {
+	margin: 0;
+	padding: 0;
+}
+
+div.academia-content .form-table th {
+	color: #555;
+	font-size: 12px;
+	font-weight: bold;
+	margin-right: 20px;
+	padding: 10px 0 0;
+	width: 220px;
+}
+
+div.academia-content .form-wrap p,
+div.academia-content span.description {
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	color: #999;
+}
+
+div.academia-content .form-table td {
+	color: #999;
+	font-size: 11px;
+	font-weight: normal;
+	overflow: hidden;
+	padding: 10px 0;
+	width: 380px;
+}
+
+div.academia-content .form-table tr {
+	border-bottom: solid 1px #f1f1f1;
+}
+
+div.academia-content div.academia-input p {
+	margin: 10px 0 0;
+}
+
+div.academia-content .form-table input[type="text"],
+div.academia-content .form-table select,
+div.academia-content .form-table textarea {
+	border: solid 1px #dfdfdf;
+	font-size: 13px;
+	color: #333;
+	margin-bottom: 5px;
+	padding: 6px 8px;
+	width: 300px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+div.academia-content .form-table select {
+	padding: 0 0 0 8px;
+}
+
+div.academia-content input[type="checkbox"] {
+	margin-right: 5px;
+}
+
+/* Footer */
+
+.academia-wrapper .cleaner-footer {
+	background-color: #e1e1e1;
+}
+
+div.footer {
+	background: #ececec url(../images/academia-options-footer-back.png) repeat-x top left;
+	border: solid 1px #e1e1e1;
+	border-top: 0;
+	padding: 15px 0;
+	-webkit-border-bottom-right-radius: 5px;
+	-webkit-border-bottom-left-radius: 5px;
+	-moz-border-radius-bottomright: 5px;
+	-moz-border-radius-bottomleft: 5px;
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+
+.footer p.submit {
+	margin: 0;
+	padding: 0;
+}
+
+div.footer input {
+	display: inline;
+	float: right;
+	margin-right: 20px;
+}
+
+div.footer input.button-primary {
+	height: 30px;
+	margin-right: 20px;
+}
+
+/* Documentation Page */
+
+.academia-documentation {
+	color: #666;
+	padding: 20px;
+}
+
+.academia-documentation h2 {
+	color: #252525;
+}
+
+.academia-documentation ul {
+	margin: 15px 20px;
+}
+
+.academia-documentation li {
+	list-style-position: inside;
+	list-style-type: square;
+}
+
+/*messages*/
+.error {color:#cc0000;}

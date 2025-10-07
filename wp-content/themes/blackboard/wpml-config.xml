@@ -1,0 +1,29 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="translate">academia_post_featured_title</custom-field>
+        <custom-field action="translate">academia_post_featured_url</custom-field>
+        <custom-field action="translate">academia_course_code</custom-field>
+        <custom-field action="translate">academia_course_location</custom-field>
+	<custom-field action="translate">academia_course_delivery</custom-field>
+	<custom-field action="translate">academia_course_duration</custom-field>
+	<custom-field action="translate">academia_course_credits</custom-field>
+	<custom-field action="translate">academia_course_next</custom-field>
+	<custom-field action="translate">academia_course_contacts</custom-field>
+	<custom-field action="translate">academia_staff_position</custom-field>
+	<custom-field action="translate">academia_staff_location</custom-field>
+	<custom-field action="translate">academia_staff_personal_title</custom-field>
+	<custom-field action="translate">academia_staff_telephone</custom-field>
+        <custom-field action="translate">academia_staff_email</custom-field>
+        <custom-field action="translate">academia_testimonial_author</custom-field>
+	<custom-field action="translate">academia_testimonial_country</custom-field>
+	<custom-field action="translate">academia_testimonial_date</custom-field>
+    </custom-fields>
+    <custom-types>
+        <custom-type translate="1">course</custom-type>
+        <custom-type translate="1">event</custom-type>
+        <custom-type translate="1">staff</custom-type>
+        <custom-type translate="1">testimonial</custom-type>
+    </custom-types>    
+    <admin-texts>
+    </admin-texts>
+</wpml-config>

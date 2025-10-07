@@ -1,0 +1,1251 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Blackboard\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Mon May 16 2016 15:45:27 GMT+0300 (E. Europe Daylight "
+"Time)\n"
+"POT-Revision-Date: Wed Dec 14 2016 13:55:01 GMT+0100 (W. Europe Standard "
+"Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../404.php:21
+msgid "Page not found"
+msgstr ""
+
+#: ../404.php:26
+msgid ""
+"Apologies, but the requested page cannot be found. Perhaps searching will "
+"help find a related page."
+msgstr ""
+
+#: ../404.php:30
+msgid "Browse Categories"
+msgstr ""
+
+#: ../404.php:35
+msgid "Monthly Archives"
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:11 ../academia-admin/academia-
+#: theme-settings.php:409
+msgid "General Settings"
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:12 ../academia-admin/academia-
+#: theme-settings.php:410
+msgid "Homepage Settings"
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:14 ../academia-admin/academia-
+#: theme-settings.php:412
+msgid "Miscellaneous"
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:16 ../academia-admin/academia-
+#: theme-settings.php:414
+msgid "Debug Information"
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:51
+msgid "Load custom.css file"
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:52
+msgid ""
+"Check this box if you want to load the custom.css file in the header of the "
+"theme."
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:60
+msgid "Display Footer Widget Columns"
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:61
+msgid "Check if you want to display the footer widget columns (sidebars)."
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:69
+msgid "Footer Logo"
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:70
+msgid "Check if you want to display an alternative logo in the footer."
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:87
+msgid "Number of Courses per Page"
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:88
+msgid "Number of courses that will be shown per archive page."
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:97
+msgid "Number of Staff Members per Page"
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:98
+msgid "Number of staff members that will be shown per archive page."
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:109
+msgid "Number of Featured Posts to Display"
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:110
+msgid "How many featured posts to display in the homepage slideshow."
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:119
+msgid "Enable Slideshow Autoplay"
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:120
+msgid "Check this box if you want to enable autoplay for the homepage slideshow."
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:128
+msgid "Slideshow Autoplay Speed"
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:129
+msgid "In miliseconds. 1 second = 1000 miliseconds."
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:147
+msgid "Social Sharing: Posts"
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:148
+msgid ""
+"Check this box if you want to display social sharing buttons (Facebook, "
+"Twitter, etc.) for Posts."
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:156
+msgid "Social Sharing: Pages"
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:157
+msgid ""
+"Check this box if you want to display social sharing buttons (Facebook, "
+"Twitter, etc.) for Pages."
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:165
+msgid "Social Sharing: Courses"
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:166
+msgid ""
+"Check this box if you want to display social sharing buttons (Facebook, "
+"Twitter, etc.) for Courses."
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:174
+msgid "Social Sharing: Events"
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:175
+msgid ""
+"Check this box if you want to display social sharing buttons (Facebook, "
+"Twitter, etc.) for Events."
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:183
+msgid "Social Sharing: Staff"
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:184
+msgid ""
+"Check this box if you want to display social sharing buttons (Facebook, "
+"Twitter, etc.) for Staff."
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:192
+msgid "Social Sharing: Testimonials"
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:193
+msgid ""
+"Check this box if you want to display social sharing buttons (Facebook, "
+"Twitter, etc.) for Testimonials."
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:201
+msgid "Custom Code Before &lt;/head&gt;"
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:202
+msgid ""
+"Here you can add HTML/JS code that will be added right before &lt;/head&gt;. "
+"<br />For example here you can add the tracking code provided by Google "
+"Analytics."
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:211
+msgid "Custom Code Before &lt;/body&gt;"
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:212
+msgid "Here you can add HTML/JS code that will be added right before &lt;/body&gt;."
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:221
+msgid "Display Breadcrumbs"
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:222
+msgid "Check this box if you want to display automatic breadcrumbs on all pages."
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:230
+msgid "Display Comments for Pages"
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:231
+msgid ""
+"Check this box if you want to display comments and submit comment form "
+"inside pages."
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:239
+msgid "Display Comments for Posts"
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:240
+msgid ""
+"Check this box if you want to display comments and submit comment form "
+"inside posts."
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:248
+msgid "Credit AcademiaThemes in Footer"
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:249
+msgid ""
+"Leave this box checked if you want to keep \"Designed by AcademiaThemes\" in "
+"the footer. Keeping this box checked will make us very happy."
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:257
+msgid "Debugging information"
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:270
+msgid "Academia Theme Options - Contextual Help"
+msgstr ""
+
+#: ../academia-admin/academia-theme-options.php:271
+msgid ""
+"If you are experiencing problems with our theme, please consult our <a "
+"href=\"http://www.academiathemes.com/support/\">Support Section</a>."
+msgstr ""
+
+#: ../academia-admin/academia-theme-settings.php:40
+msgid "Academia Theme Options"
+msgstr ""
+
+#: ../academia-admin/academia-theme-settings.php:48
+msgid "Academia Theme Documentation"
+msgstr ""
+
+#: ../academia-admin/academia-theme-settings.php:167 ../academia-admin/academia-
+#: theme-settings.php:167
+msgid "Academia"
+msgstr ""
+
+#: ../academia-admin/academia-theme-settings.php:170 ../academia-admin/academia-
+#: theme-settings.php:170
+msgid "Theme Options"
+msgstr ""
+
+#: ../academia-admin/academia-theme-settings.php:174 ../academia-admin/academia-
+#: theme-settings.php:174
+msgid "Documentation"
+msgstr ""
+
+#: ../academia-admin/academia-theme-settings.php:264
+msgid "--- Please select a page ---"
+msgstr ""
+
+#: ../academia-admin/academia-theme-settings.php:398 ../academia-admin/academia-
+#: theme-settings.php:538
+msgid "Changelog"
+msgstr ""
+
+#: ../academia-admin/academia-theme-settings.php:399 ../academia-admin/academia-
+#: theme-settings.php:539
+msgid "Theme Documentation"
+msgstr ""
+
+#: ../academia-admin/academia-theme-settings.php:400 ../academia-admin/academia-
+#: theme-settings.php:540
+msgid "Theme Support"
+msgstr ""
+
+#: ../academia-admin/academia-theme-settings.php:411
+msgid "Social Media"
+msgstr ""
+
+#: ../academia-admin/academia-theme-settings.php:413
+msgid "Banners"
+msgstr ""
+
+#: ../academia-admin/academia-theme-settings.php:475
+msgid "Save Changes"
+msgstr ""
+
+#. error ID
+#: ../academia-admin/academia-theme-settings.php:609
+msgid "Expecting a Numeric value! Please fix."
+msgstr ""
+
+#: ../academia-admin/academia-theme-settings.php:622
+msgid "Expecting comma separated numeric values"
+msgstr ""
+
+#. error ID
+#: ../academia-admin/academia-theme-settings.php:632
+msgid "Expecting comma separated numeric values! Please fix."
+msgstr ""
+
+#: ../academia-admin/academia-theme-settings.php:657
+msgid "Invalid email! Please re-enter!"
+msgstr ""
+
+#. error ID
+#: ../academia-admin/academia-theme-settings.php:669
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:18
+msgctxt "post type general name"
+msgid "Courses"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:19
+msgctxt "post type singular name"
+msgid "Course"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:20
+msgctxt "slideshow item"
+msgid "Add a New Course"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:21
+msgid "Add New Course"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:22
+msgid "Edit Course"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:23
+msgid "New Course"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:24
+msgid "View Course"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:25
+msgid "Search Courses"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:26 ../academia-admin/custom-post-types.
+#: php:389 ../academia-admin/custom-post-types.php:470
+msgid "Nothing found"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:27 ../academia-admin/custom-post-types.
+#: php:390 ../academia-admin/custom-post-types.php:471
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:58
+msgctxt "taxonomy general name"
+msgid "Course Type"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:59
+msgctxt "taxonomy singular name"
+msgid "Course Type"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:60
+msgid "Search Course Types"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:61
+msgid "All Course Types"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:62
+msgid "Parent Course Type"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:63
+msgid "Parent Course Type:"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:64
+msgid "Edit Course Type"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:65
+msgid "Update Course Type"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:66
+msgid "Add New Course Type"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:67
+msgid "New Course Type Name"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:68
+msgid "Course Type"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:124
+msgid "Events"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:125
+msgid "Event"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:126 ../academia-admin/custom-post-
+#: types.php:127 ../academia-admin/custom-post-types.php:129
+msgid "Add New Event"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:128
+msgid "Edit Event"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:130
+msgid "View Event"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:131
+msgid "Search Events"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:132
+msgid "No events found"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:133
+msgid "No events found in trash"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:381
+msgctxt "post type general name"
+msgid "Staff"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:382
+msgctxt "post type singular name"
+msgid "Staff Member"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:383
+msgctxt "slideshow item"
+msgid "Add a New Staff Member"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:384
+msgid "Add New Staff Member"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:385
+msgid "Edit Staff Member"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:386
+msgid "New Staff Member"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:387
+msgid "View Staff Member"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:388
+msgid "Search Staff"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:421
+msgctxt "taxonomy general name"
+msgid "Staff Department"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:422
+msgctxt "taxonomy singular name"
+msgid "Staff Department"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:423
+msgid "Search Staff Departments"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:424
+msgid "All Staff Departments"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:425
+msgid "Parent Staff Department"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:426
+msgid "Parent Staff Department:"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:427
+msgid "Edit Staff Department"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:428
+msgid "Update Staff Department"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:429
+msgid "Add New Staff Department"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:430
+msgid "New Staff Department Name"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:431
+msgid "Staff Department"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:462
+msgctxt "post type general name"
+msgid "Testimonials"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:463
+msgctxt "post type singular name"
+msgid "Testimonial"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:464
+msgctxt "slideshow item"
+msgid "Add a New Testimonial"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:465
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:466
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:467
+msgid "New Testimonial"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:468
+msgid "View Testimonial"
+msgstr ""
+
+#: ../academia-admin/custom-post-types.php:469
+msgid "Search Testimonials"
+msgstr ""
+
+#: ../academia-admin/post-options.php:101
+msgid "Feature Post in Slideshow on Homepage"
+msgstr ""
+
+#: ../academia-admin/post-options.php:105
+msgid "Custom Title"
+msgstr ""
+
+#: ../academia-admin/post-options.php:105 ../academia-admin/post-options.php:111
+msgid "(optional)"
+msgstr ""
+
+#: ../academia-admin/post-options.php:111
+msgid "Custom URL"
+msgstr ""
+
+#: ../academia-admin/post-options.php:131 ../loop-courses.php:5
+msgid "Code"
+msgstr ""
+
+#: ../academia-admin/post-options.php:136 ../academia-admin/post-options.php:200 .
+#: ./academia-admin/post-options.php:202 ../loop-courses.php:6 ../meta-staff.php:28
+msgid "Location"
+msgstr ""
+
+#: ../academia-admin/post-options.php:140
+msgid "Delivery mode"
+msgstr ""
+
+#: ../academia-admin/post-options.php:145
+msgid "Duration"
+msgstr ""
+
+#: ../academia-admin/post-options.php:149
+msgid "Credits"
+msgstr ""
+
+#: ../academia-admin/post-options.php:153
+msgid "Next intake"
+msgstr ""
+
+#: ../academia-admin/post-options.php:158 ../meta-courses.php:54
+msgid "Contacts"
+msgstr ""
+
+#: ../academia-admin/post-options.php:176
+msgid "What events to display"
+msgstr ""
+
+#: ../academia-admin/post-options.php:178
+msgid "Future"
+msgstr ""
+
+#: ../academia-admin/post-options.php:179
+msgid "Past"
+msgstr ""
+
+#: ../academia-admin/post-options.php:196 ../meta-staff.php:16
+msgid "Position Title"
+msgstr ""
+
+#: ../academia-admin/post-options.php:205 ../meta-staff.php:22
+msgid "Personal Title"
+msgstr ""
+
+#: ../academia-admin/post-options.php:207
+msgid "Example: On Campus"
+msgstr ""
+
+#: ../academia-admin/post-options.php:210
+msgid "Telephone Number"
+msgstr ""
+
+#: ../academia-admin/post-options.php:214
+msgid "Email Address"
+msgstr ""
+
+#: ../academia-admin/post-options.php:230
+msgid "Testimonial Author"
+msgstr ""
+
+#: ../academia-admin/post-options.php:234
+msgid "Author Location"
+msgstr ""
+
+#: ../academia-admin/post-options.php:236
+msgid "Example: Rome, Italy"
+msgstr ""
+
+#: ../academia-admin/post-options.php:239
+msgid "Testimonial Date"
+msgstr ""
+
+#: ../academia-admin/post-options.php:241
+msgid "Example: 15th December, 2012"
+msgstr ""
+
+#: ../academia-admin/widgets/contacts.php:15
+msgid "Academia: Contacts"
+msgstr ""
+
+#: ../academia-admin/widgets/contacts.php:18
+msgid "Displays contact options."
+msgstr ""
+
+#: ../academia-admin/widgets/contacts.php:132 ../academia-
+#: admin/widgets/custommenu.php:105 ../academia-admin/widgets/recent-comments.php:
+#: 110 ../academia-admin/widgets/recent-events.php:173 ../academia-
+#: admin/widgets/recent-posts.php:121 ../academia-admin/widgets/testimonials.php:
+#: 147
+msgid "Widget color style"
+msgstr ""
+
+#: ../academia-admin/widgets/contacts.php:134 ../academia-
+#: admin/widgets/custommenu.php:107 ../academia-admin/widgets/recent-comments.php:
+#: 112 ../academia-admin/widgets/recent-events.php:175 ../academia-
+#: admin/widgets/recent-posts.php:123 ../academia-admin/widgets/testimonials.php:
+#: 149
+msgid "Default"
+msgstr ""
+
+#: ../academia-admin/widgets/contacts.php:135 ../academia-
+#: admin/widgets/custommenu.php:108 ../academia-admin/widgets/recent-comments.php:
+#: 113 ../academia-admin/widgets/recent-events.php:176 ../academia-
+#: admin/widgets/recent-posts.php:124 ../academia-admin/widgets/testimonials.php:
+#: 150
+msgid "Blue"
+msgstr ""
+
+#: ../academia-admin/widgets/contacts.php:136 ../academia-
+#: admin/widgets/custommenu.php:109 ../academia-admin/widgets/recent-comments.php:
+#: 114 ../academia-admin/widgets/recent-events.php:177 ../academia-
+#: admin/widgets/recent-posts.php:125 ../academia-admin/widgets/testimonials.php:
+#: 151
+msgid "Gold"
+msgstr ""
+
+#: ../academia-admin/widgets/contacts.php:137 ../academia-
+#: admin/widgets/custommenu.php:110 ../academia-admin/widgets/recent-comments.php:
+#: 115 ../academia-admin/widgets/recent-events.php:178 ../academia-
+#: admin/widgets/recent-posts.php:126 ../academia-admin/widgets/testimonials.php:
+#: 152
+msgid "Grey"
+msgstr ""
+
+#: ../academia-admin/widgets/contacts.php:138 ../academia-
+#: admin/widgets/custommenu.php:111 ../academia-admin/widgets/recent-comments.php:
+#: 116 ../academia-admin/widgets/recent-events.php:179 ../academia-
+#: admin/widgets/recent-posts.php:127 ../academia-admin/widgets/testimonials.php:
+#: 153
+msgid "Red"
+msgstr ""
+
+#: ../academia-admin/widgets/contacts.php:142 ../academia-admin/widgets/recent-
+#: comments.php:120 ../academia-admin/widgets/recent-events.php:183 ../academia-
+#: admin/widgets/testimonials.php:157
+msgid "Widget Title"
+msgstr ""
+
+#: ../academia-admin/widgets/contacts.php:146
+msgid "Contact 1 Text"
+msgstr ""
+
+#: ../academia-admin/widgets/contacts.php:150
+msgid "Contact 1 Icon"
+msgstr ""
+
+#: ../academia-admin/widgets/contacts.php:152 ../academia-admin/widgets/contacts.
+#: php:166 ../academia-admin/widgets/contacts.php:180 ../academia-
+#: admin/widgets/contacts.php:194 ../academia-admin/widgets/contacts.php:208
+msgid "No Icon"
+msgstr ""
+
+#: ../academia-admin/widgets/contacts.php:153 ../academia-admin/widgets/contacts.
+#: php:167 ../academia-admin/widgets/contacts.php:181 ../academia-
+#: admin/widgets/contacts.php:195 ../academia-admin/widgets/contacts.php:209
+msgid "Marker"
+msgstr ""
+
+#: ../academia-admin/widgets/contacts.php:154 ../academia-admin/widgets/contacts.
+#: php:168 ../academia-admin/widgets/contacts.php:182 ../academia-
+#: admin/widgets/contacts.php:196 ../academia-admin/widgets/contacts.php:210
+msgid "Phone"
+msgstr ""
+
+#: ../academia-admin/widgets/contacts.php:155 ../academia-admin/widgets/contacts.
+#: php:169 ../academia-admin/widgets/contacts.php:183 ../academia-
+#: admin/widgets/contacts.php:197 ../academia-admin/widgets/contacts.php:211
+msgid "Fax"
+msgstr ""
+
+#: ../academia-admin/widgets/contacts.php:156 ../academia-admin/widgets/contacts.
+#: php:170 ../academia-admin/widgets/contacts.php:184 ../academia-
+#: admin/widgets/contacts.php:198 ../academia-admin/widgets/contacts.php:212
+msgid "Email"
+msgstr ""
+
+#: ../academia-admin/widgets/contacts.php:160
+msgid "Contact 2 Text"
+msgstr ""
+
+#: ../academia-admin/widgets/contacts.php:164
+msgid "Contact 2 Icon"
+msgstr ""
+
+#: ../academia-admin/widgets/contacts.php:174
+msgid "Contact 3 Text"
+msgstr ""
+
+#: ../academia-admin/widgets/contacts.php:178
+msgid "Contact 3 Icon"
+msgstr ""
+
+#: ../academia-admin/widgets/contacts.php:188
+msgid "Contact 4 Text"
+msgstr ""
+
+#: ../academia-admin/widgets/contacts.php:192
+msgid "Contact 4 Icon"
+msgstr ""
+
+#: ../academia-admin/widgets/contacts.php:202
+msgid "Contact 5 Text"
+msgstr ""
+
+#: ../academia-admin/widgets/contacts.php:206
+msgid "Contact 5 Icon"
+msgstr ""
+
+#: ../academia-admin/widgets/custommenu.php:18
+msgid "Academia: Custom Menu"
+msgstr ""
+
+#: ../academia-admin/widgets/custommenu.php:21
+msgid "Use this widget to add one of your custom menus as a widget."
+msgstr ""
+
+#: ../academia-admin/widgets/custommenu.php:84
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: ../academia-admin/widgets/custommenu.php:89
+msgid "Title"
+msgstr ""
+
+#: ../academia-admin/widgets/custommenu.php:93
+msgid "Select Menu"
+msgstr ""
+
+#: ../academia-admin/widgets/recent-comments.php:15
+msgid "Academia: Recent Comments"
+msgstr ""
+
+#: ../academia-admin/widgets/recent-comments.php:18
+msgid "A list of recent comments from all posts."
+msgstr ""
+
+#: ../academia-admin/widgets/recent-comments.php:125
+msgid "Number of comments to show"
+msgstr ""
+
+#: ../academia-admin/widgets/recent-comments.php:137
+msgid "Show gravatar"
+msgstr ""
+
+#: ../academia-admin/widgets/recent-comments.php:141
+msgid "Gravatar size"
+msgstr ""
+
+#: ../academia-admin/widgets/recent-comments.php:146
+msgid "Comment excerpt length"
+msgstr ""
+
+#: ../academia-admin/widgets/recent-events.php:15
+msgid "Academia: Events"
+msgstr ""
+
+#: ../academia-admin/widgets/recent-events.php:18
+msgid "Displays a list of upcoming events."
+msgstr ""
+
+#: ../academia-admin/widgets/recent-events.php:133 ../academia-
+#: admin/widgets/recent-posts.php:75
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../academia-admin/widgets/recent-events.php:188 ../academia-
+#: admin/widgets/recent-posts.php:157
+msgid "Number of posts to display"
+msgstr ""
+
+#: ../academia-admin/widgets/recent-events.php:194 ../academia-
+#: admin/widgets/recent-posts.php:168
+msgid "Display excerpt"
+msgstr ""
+
+#: ../academia-admin/widgets/recent-events.php:199 ../academia-
+#: admin/widgets/recent-posts.php:173
+msgid "Display date"
+msgstr ""
+
+#: ../academia-admin/widgets/recent-posts.php:15
+msgid "Academia: Recent Posts"
+msgstr ""
+
+#: ../academia-admin/widgets/recent-posts.php:18
+msgid "A list of posts, optionally filtered by category."
+msgstr ""
+
+#: ../academia-admin/widgets/recent-posts.php:132
+msgid "Widget title"
+msgstr ""
+
+#: ../academia-admin/widgets/recent-posts.php:137
+msgid "Category of posts"
+msgstr ""
+
+#: ../academia-admin/widgets/recent-posts.php:163
+msgid "Display thumbnail"
+msgstr ""
+
+#: ../academia-admin/widgets/recent-posts.php:177
+msgid "Display post category"
+msgstr ""
+
+#: ../academia-admin/widgets/testimonials.php:15
+msgid "Academia: Testimonials"
+msgstr ""
+
+#: ../academia-admin/widgets/testimonials.php:18
+msgid "Displays testimonials according to chosen criteria."
+msgstr ""
+
+#: ../academia-admin/widgets/testimonials.php:162
+msgid "Link Widget Title to Page"
+msgstr ""
+
+#: ../academia-admin/widgets/testimonials.php:164
+msgid "Choose page"
+msgstr ""
+
+#: ../academia-admin/widgets/testimonials.php:181
+msgid "How many testimonials to display"
+msgstr ""
+
+#: ../academia-admin/widgets/testimonials.php:187
+msgid "Display Testimonial Title"
+msgstr ""
+
+#: ../academia-admin/widgets/testimonials.php:191
+msgid "Display Featured Image"
+msgstr ""
+
+#: ../academia-admin/widgets/testimonials.php:195
+msgid "Display Author Name"
+msgstr ""
+
+#: ../academia-admin/widgets/testimonials.php:199
+msgid "Display Author Location"
+msgstr ""
+
+#: ../academia-admin/widgets/testimonials.php:203
+msgid "Display Testimonial Date"
+msgstr ""
+
+#: ../academia-admin/widgets/testimonials.php:207
+msgid "Display Random Testimonial"
+msgstr ""
+
+#: ../comments.php:2
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../comments.php:14
+msgid "No Comments"
+msgstr ""
+
+#: ../comments.php:14
+msgid "One Comment"
+msgstr ""
+
+#: ../comments.php:14
+#, php-format
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:18 ../comments.php:32
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: ../comments.php:18 ../comments.php:32
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../comments.php:44
+msgid "Comments are closed"
+msgstr ""
+
+#: ../comments.php:60
+msgid "Your Name"
+msgstr ""
+
+#: ../comments.php:65
+msgid "Your Email"
+msgstr ""
+
+#: ../comments.php:70
+msgid "Your Website"
+msgstr ""
+
+#: ../comments.php:77
+msgid "Comment"
+msgstr ""
+
+#: ../comments.php:80
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\">Log out?</a>"
+msgstr ""
+
+#: ../comments.php:81
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../comments.php:82
+msgid "Cancel"
+msgstr ""
+
+#: ../comments.php:83
+msgid "Submit Comment"
+msgstr ""
+
+#: ../footer.php:71
+msgid "Theme by"
+msgstr ""
+
+#: ../footer.php:73
+msgid "Copyright &copy; "
+msgstr ""
+
+#: ../footer.php:73
+msgid "All Rights Reserved"
+msgstr ""
+
+#: ../form-courses.php:5
+msgid "Search courses"
+msgstr ""
+
+#: ../form-staff.php:5
+msgid "Search staff directory"
+msgstr ""
+
+#: ../functions.php:79
+msgid "Main Menu"
+msgstr ""
+
+#: ../functions.php:80
+msgid "Secondary (Top) Menu"
+msgstr ""
+
+#: ../functions.php:206
+msgid "Home"
+msgstr ""
+
+#: ../functions.php:269
+msgid "Search results for &#39;"
+msgstr ""
+
+#: ../functions.php:272
+msgid "Posts tagged &#39;"
+msgstr ""
+
+#: ../functions.php:284
+msgid "Articles posted by "
+msgstr ""
+
+#: ../functions.php:287
+msgid "Error 404"
+msgstr ""
+
+#: ../functions.php:292
+msgid "Page"
+msgstr ""
+
+#: ../functions.php:321
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../functions.php:322
+#, php-format
+msgid "%s at %s"
+msgstr ""
+
+#: ../functions.php:322
+msgid "Edit"
+msgstr ""
+
+#: ../functions.php:326
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:347
+msgid "Pingback:"
+msgstr ""
+
+#: ../functions.php:347
+msgid "(Edit)"
+msgstr ""
+
+#: ../functions.php:381
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../loop-courses.php:4
+msgid "Course Title"
+msgstr ""
+
+#: ../loop-events.php:121 ../loop-events.php:130 ../loop-events.php:136
+msgid "at"
+msgstr ""
+
+#: ../loop-staff.php:4
+msgid "Name"
+msgstr ""
+
+#: ../loop-staff.php:5
+msgid "Position"
+msgstr ""
+
+#: ../loop-staff.php:6
+msgid "Department"
+msgstr ""
+
+#: ../meta-courses.php:13
+msgid "Course Information"
+msgstr ""
+
+#: ../meta-courses.php:18
+msgid "Course Code"
+msgstr ""
+
+#: ../meta-courses.php:24
+msgid "Course Location"
+msgstr ""
+
+#: ../meta-courses.php:30
+msgid "Course Delivery"
+msgstr ""
+
+#: ../meta-courses.php:36
+msgid "Course Duration"
+msgstr ""
+
+#: ../meta-courses.php:42
+msgid "Course Credits"
+msgstr ""
+
+#: ../meta-courses.php:48
+msgid "Next Course Intake"
+msgstr ""
+
+#: ../meta-staff.php:11
+msgid "Contact Information"
+msgstr ""
+
+#: ../meta-staff.php:34
+msgid "Telephone number"
+msgstr ""
+
+#: ../meta-staff.php:40
+msgid "E-mail address"
+msgstr ""
+
+#. Name of the template
+msgid "Blog Archive"
+msgstr ""
+
+#: ../page-templates/blog.php:37 ../page-templates/courses.php:37 ../page-
+#: templates/events.php:43 ../page-templates/fullwidth.php:40 ../page-
+#: templates/gallery.php:42 ../page-templates/list.php:37 ../page-templates/staff.
+#: php:37 ../page-templates/testimonials.php:42 ../page-templates/two-columns.php:
+#: 42 ../page.php:39 ../single-course.php:40 ../single-event.php:74 ../single-
+#: staff.php:40 ../single-testimonial.php:47 ../single.php:40
+msgid "Pages"
+msgstr ""
+
+#. Name of the template
+msgid "Courses Archive"
+msgstr ""
+
+#. Name of the template
+msgid "Events Archive"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width"
+msgstr ""
+
+#. Name of the template
+msgid "Gallery"
+msgstr ""
+
+#. Name of the template
+msgid "Parent Page (List)"
+msgstr ""
+
+#. Name of the template
+msgid "Staff Archive"
+msgstr ""
+
+#. Name of the template
+msgid "Testimonials Archive"
+msgstr ""
+
+#. Name of the template
+msgid "Two Columns"
+msgstr ""
+
+#: ../pagination.php:14
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../pagination.php:15
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../search-courses.php:19 ../search-staff.php:19 ../search.php:21
+msgid "Search Results for"
+msgstr ""
+
+#: ../single.php:29
+msgid "in"
+msgstr ""
+
+#: ../tax-course-type.php:2
+msgid "Course Types"
+msgstr ""
+
+#: ../tax-staff-dept.php:2
+msgid "Staff Departments"
+msgstr ""
+
+#: ../taxonomy-course-type.php:20 ../taxonomy-staff-dept.php:20
+msgid "Edit page"
+msgstr ""
+
+#. Name of the theme
+msgid "Blackboard"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "http://www.academiathemes.com/themes/blackboard/"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Blackboard is a modern WordPress theme with a three-columns responsive "
+"layout. Unlimited color variations and easy customization options make this "
+"a great theme for any organization."
+msgstr ""
+
+#. Author of the theme
+msgid "AcademiaThemes.com"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://www.academiathemes.com/"
+msgstr ""

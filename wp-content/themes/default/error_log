@@ -1,0 +1,4 @@
+[22-Feb-2025 20:40:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_theme_support() in /home2/bogosplh/public_html/wp-content/themes/default/functions.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/bogosplh/public_html/wp-content/themes/default/functions.php on line 9

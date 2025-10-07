@@ -1,0 +1,140 @@
+/*
+Theme Name: Blackboard
+Description: Used to style the TinyMCE editor.
+*/
+
+/**
+ * 1.0 - Body
+ */
+
+body {
+	background-color: #fff;
+	color: #555;
+	font-family: 'Source Sans Pro', Arial, Tahoma, sans-serif;
+	font-size: 16px;  
+	line-height: 1.8em;
+	font-weight: 400;
+	margin: 20px 20px 20px 40px;
+	max-width: 460px;
+	vertical-align: baseline;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	color: #222;
+	font-family: 'Source Sans Pro', Arial, Tahoma, sans-serif;
+	font-weight: 700;
+	line-height: 1.5;
+	margin: 0.5em 0;
+	text-transform: uppercase;
+}
+
+h1 { font-size: 32px; }
+h2 { font-size: 20px; }
+h3 { font-size: 18px; }
+h4 { font-size: 18px; }
+h5 { font-size: 16px; }
+h6 { font-size: 14px; }
+
+p {
+	margin-top: 0;
+	margin-bottom: 1.5em; 
+}
+
+a {
+	color: #26bcd7;
+	text-decoration:none; 
+}
+a:hover,
+a:focus {
+	color: #e21735;
+	cursor: pointer;
+	text-decoration:underline; 
+}
+
+img {
+	margin-bottom: 20px; 
+}
+
+img.alignnone, 
+img.aligncenter, 
+img.alignleft, 
+img.alignright {
+	max-width: 100%;
+	width:auto;
+ 	height:auto;
+}
+
+.alignright {
+	display: inline;
+	float: right;
+	margin: 0 0 0 20px;
+}
+
+.alignleft {
+	display: inline;
+	float: left;
+	margin: 0 0 0 20px;
+}
+
+iframe {
+	max-width: 100%;
+}
+
+textarea {
+	max-width: 97%;
+}
+
+blockquote {
+    color:#999;
+    border-left: solid 3px #ececec;
+    padding: 0 15px;
+    margin: 10px;
+}
+
+ul,
+ol {
+	margin: 0 0 1.75em 1.25em;
+	padding: 0;
+}
+
+ul li {
+	list-style-type: disc;
+}
+
+ol li {
+	list-style-type: decimal;
+}
+
+table th,
+table td {
+	border-right: solid 1px #e1e1e1;
+	border-right-color: rgba(0,0,0,0.05);
+	font-family: 'Cabin';
+	font-size: 15px;
+	padding-left: 20px;
+}
+
+table th {
+	border-right-color: rgba(255,255,255,0.05);
+}
+
+table th:last-child {
+	border-right-width: 0;
+}
+
+thead th {
+	background-color: #0063aa;
+	color: #fff;
+}
+
+table tr {
+	border-bottom: solid 1px #e1e1e1;
+}
+
+tr:nth-child(odd) {
+	background-color: #f9f9f9;
+}
+
+tr:nth-child(even) {
+	background-color: #f1f1f1;
+}
